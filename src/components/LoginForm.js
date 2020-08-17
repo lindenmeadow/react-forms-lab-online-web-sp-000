@@ -44,6 +44,6 @@ class LoginForm extends React.Component {
       </form>
     );
   }
-}
+
 
 export default LoginForm;
